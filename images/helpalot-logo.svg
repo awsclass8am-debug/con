@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 96" role="img" aria-label="Helpalot">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#5b5ce2"/><stop offset="1" stop-color="#18b6a4"/></linearGradient></defs>
+<rect x="4" y="4" width="88" height="88" rx="26" fill="url(#g)"/>
+<path d="M27 29v38h10V53h22v14h10V29H59v14H37V29z" fill="#fff"/>
+<text x="108" y="64" font-family="Inter,Arial,sans-serif" font-size="54" font-weight="800" fill="#162033" letter-spacing="-2">Helpalot</text>
+</svg>
